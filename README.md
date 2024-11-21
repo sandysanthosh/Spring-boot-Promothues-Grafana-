@@ -92,7 +92,7 @@ public class MetricsController {
         return "Custom metrics exposed!";
     }
 }
-
+```
 
 ---
 
